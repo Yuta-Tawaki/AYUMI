@@ -1,4 +1,4 @@
-# AYUMI Scan
+# About AYUMI Scan
 
 
 AYUMI Scan の内容について
