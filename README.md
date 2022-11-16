@@ -4,10 +4,14 @@
 AYUMI Scan の内容について
 
 
-![1](https://user-images.githubusercontent.com/54052571/202124687-a81d718f-d088-420f-9dd7-b4e83e5b1ada.png)
-![2](https://user-images.githubusercontent.com/54052571/202124828-515df51b-eea9-48eb-8b97-68b120dd76d1.png)
 
 <img src="https://user-images.githubusercontent.com/54052571/202124687-a81d718f-d088-420f-9dd7-b4e83e5b1ada.png" width="320px">
+<img src="https://user-images.githubusercontent.com/54052571/202124828-515df51b-eea9-48eb-8b97-68b120dd76d1.png" width="320px">
+
+<img src="https://user-images.githubusercontent.com/54052571/202125324-23e11c4d-f1dd-4257-8998-275d23c2a81f.png" width="320px">
+<img src="https://user-images.githubusercontent.com/54052571/202125338-548795bb-f29c-47ac-b6bb-8d46d14539be.png" width="320px">
+
+
 
 - アプリの使い方
 
